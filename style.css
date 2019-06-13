@@ -25,6 +25,9 @@ body {
     margin-bottom: 40px;
 }
 
+#contactContainer {
+    height: 500px;
+}
 #portraitImg {
     width: 100%;
     margin-left: 15px;
@@ -57,4 +60,16 @@ h2 {
     /* border: solid; */
     height: 300px;
     padding: 0;
+}
+
+#footer {
+    background-color: #61809d;
+    color: white;
+    padding-top: 35px;
+    text-align: center;
+    margin-top: 40px;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-self: flex-end;
 }
