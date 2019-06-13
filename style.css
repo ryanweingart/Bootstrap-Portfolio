@@ -1,0 +1,60 @@
+body {
+    background-image: url("linen.png");
+    background-color: white;
+}
+.navbar-brand {
+    font-size: 36px;
+    letter-spacing: 3px;
+}
+
+.navbar-nav {
+    font-size: 24px;
+}
+
+#mainContainer {
+    background-color: white;
+    border: solid #61809d;
+    height: 100%;
+    margin-top: 40px;
+}
+
+.header {
+    color: cadetblue;
+    padding: 20px;
+    border-bottom: solid #61809d;
+    margin-bottom: 40px;
+}
+
+#portraitImg {
+    width: 100%;
+    margin-left: 15px;
+}
+
+.portfolioImg {
+    width: 100%;
+}
+
+#two {
+    height: 310px;
+}
+
+#three {
+    height: 80px;
+}
+.col-md-5 {
+    /* border: solid red; */
+    padding: 0;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 20px;
+    color: cadetblue;
+}
+
+
+#one {
+    /* border: solid; */
+    height: 300px;
+    padding: 0;
+}
